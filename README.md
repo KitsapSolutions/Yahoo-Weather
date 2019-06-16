@@ -12,3 +12,5 @@ Change LOCATION as required.
 run "python Yahoo-Weather.py"
 
 Output should be a JSON object by default. Change the "format: json" to suit your needs.
+
+Changes were required due to the Python HMAC implementation requiring encoding and subsequent decoding.

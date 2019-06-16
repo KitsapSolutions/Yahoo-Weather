@@ -5,6 +5,8 @@ You will need to sign up for Yahoo at https://developer.yahoo.com/.
 
 Create an app at https://developer.yahoo.com/apps/.
 
+Documentation at https://developer.yahoo.com/weather/documentation.html.
+
 Enter your app_id, consumer_key, and consumer_secret as indicated.
 
 Change LOCATION as required.

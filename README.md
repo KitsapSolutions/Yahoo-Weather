@@ -11,7 +11,7 @@ Enter your app_id, consumer_key, and consumer_secret as indicated.
 
 Change LOCATION as required.
 
-run "python Yahoo-Weather.py"
+run "python Weather.py LOCATION"
 
 Output should be a JSON object by default. Change the "format: json" to suit your needs.
 
